@@ -1,9 +1,7 @@
-# harness-notion-kb
+# AI-sync-harness
 タスク＆知識管理システム（Notion）✖ 異なるAI間でチャット履歴(.md)を自動共有
 
 ## 🎯動機
-
-## 🌳アーキテクチャ
 
 ## 🔧技術スタック
 
